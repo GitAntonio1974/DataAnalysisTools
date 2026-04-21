@@ -1,1 +1,1 @@
-Data Analysis is buolt to facilitatle post processing ofvehicle logs for multiple file format. Quick KDe and time plot, post processing report in html. up to 2 fulw comparison i  first version.
+Data Analysis is built to facilitatle post processing of vehicle logs for multiple file format. Quick statistics and time plot, Post processing report in html. Input files .csv, excel, mdf4, .mat
